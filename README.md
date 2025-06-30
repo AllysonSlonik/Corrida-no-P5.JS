@@ -6,7 +6,7 @@ App de corrida feito com Javascript e P5.JS.
 O projeto é uma simulação de corrida de carrinhos, representados pela forma geométrica retângulo no P5.JS.
 
 # COMO USAR
-![THRIVE (2).png](THRIVE (2).png)
+![HOW](COMO.png)
 
 # CRÉDITOS
 
