@@ -8,8 +8,6 @@ O projeto é uma simulação de corrida de carrinhos, representados pela forma g
 # COMO USAR
 ![THRIVE (2).png](THRIVE (2).png)
 
-![HOW](THRIVE (2).png)
-
 # CRÉDITOS
 
 DESENVOLVIDO ATRAVÉS DO P5.JS. ACESSE: https://editor.p5js.org/
