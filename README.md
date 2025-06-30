@@ -1,7 +1,7 @@
 # Corrida-no-P5.JS
 App de corrida feito com Javascript e P5.JS.
 
-# Corrida-Agrinho
+# Corrida
 
 O projeto é uma simulação de corrida de carrinhos, representados pela forma geométrica retângulo no P5.JS.
 
